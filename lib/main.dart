@@ -17,6 +17,7 @@ class MyApp extends StatelessWidget {
           backgroundColor: Colors.purple,
         ),
         floatingActionButton: FloatingActionButton(
+          child: Icon(Icons.add),
           onPressed: () {},
           backgroundColor: Colors.deepPurple,
         ),
